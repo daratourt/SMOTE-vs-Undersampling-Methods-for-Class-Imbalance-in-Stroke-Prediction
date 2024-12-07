@@ -1,1 +1,1 @@
-# Evaluating SMOTE and Generative Adversarial Networks (GANs) for Addressing Class Imbalance in COVID-19 Image Classification
+# Comparative Analysis of SMOTE and GANs on Imbalanced Health Data: Case Study of Stroke Prediction
